@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(142, 196, 134);
+}
 table {
     background-image: url("../imatges/fondoP.jpg");    
     text-align: center;
@@ -5,7 +8,11 @@ table {
     border-collapse: collapse;
 }
 td, th {
-    background-color: rgb(113, 179, 218);
-    border: 1px solid black;
+    color: aliceblue;
+    background-color: rgba(153, 73, 199, 0.6);
+    border: 1px solid white;
     padding: 10px;
+}
+h2 {
+    color: aliceblue;
 }
