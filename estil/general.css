@@ -1,0 +1,14 @@
+body {
+    background-color: orange;
+    background-image: url("../imatges/fondoP.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:rgb(224, 65, 54);
+}
+
+p {
+    color: black;
+}
