@@ -1,8 +1,11 @@
 table {
-    background-color: aquamarine;
+    background-image: url("../imatges/fondoP.jpg");    
     text-align: center;
-
+    width: 100%;
+    border-collapse: collapse;
 }
 td, th {
-    
+    background-color: rgb(113, 179, 218);
+    border: 1px solid black;
+    padding: 10px;
 }
