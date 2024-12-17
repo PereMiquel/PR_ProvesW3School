@@ -11,3 +11,24 @@ h1 {
 p {
     color: rgb(255, 255, 255);
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: grey;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/*Això és per quan passes es cursos per damunt sa llista.*/
+li a:hover {
+    background-color: rgb(70, 69, 69);
+    color: white;
+}
