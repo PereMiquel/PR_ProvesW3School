@@ -16,8 +16,12 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
     background-color: grey;
+    overflow: hidden;
+}
+
+li {
+    float: left;
 }
 
 li a {
@@ -27,7 +31,7 @@ li a {
     text-decoration: none;
 }
 
-/*Això és per quan passes es cursos per damunt sa llista.*/
+/*Això és per quan passes es cursor per damunt sa llista.*/
 li a:hover {
     background-color: rgb(70, 69, 69);
     color: white;
