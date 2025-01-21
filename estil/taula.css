@@ -2,7 +2,7 @@ body{
     background-color: rgb(116, 190, 219);
 }
 table {
-    background-image: url("../imatges/fondoP.jpg");    
+    background-image: url("../imatges/fondoP.jpg"); 
     text-align: center;
     width: 100%;
     border-collapse: collapse;
